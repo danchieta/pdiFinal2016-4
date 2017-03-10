@@ -1,5 +1,6 @@
 function [ W ] = getPSFMatrix( d, dd, gamma, s, theta )
-%UNTITLED4 Summary of this function goes here
+%getPSFMatrix Obtem matriz de transformação de espalhamento de ponto a
+%partir de parametros
 %   Detailed explanation goes here
 
 N = prod(d);
