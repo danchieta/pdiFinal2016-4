@@ -1,4 +1,4 @@
-function [ vec ] = vecOfSub( m, n)
+function [ vec ] = vecOfSub( m, n )
 %vecOfIndex Creates a horizontal array of the subscripts of a matrix.
 %   m - number of rows
 %   n - number of columns
